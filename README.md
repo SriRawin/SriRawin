@@ -1,4 +1,4 @@
-### SriRawin ![alt text](https://raw.githubusercontent.com/SriRawin/SriRawin/main/bat.png)
+### SriRawin ![alt text]{width=80}(https://raw.githubusercontent.com/SriRawin/SriRawin/main/bat.png)
 
 <!--
 **SriRawin/SriRawin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
