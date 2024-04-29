@@ -1,5 +1,5 @@
 ### Hi, I'm SriRawin
 
-- Flutter Developer, working from home
-- Experienced in hybrid app development
-- Learning MERN and getting familiar with Web technologies
+- Flutter Developer, experienced in hybrid app development
+- Learning Kotlin, getting familar with native app development and principles
+
